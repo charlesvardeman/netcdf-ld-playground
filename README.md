@@ -12,12 +12,6 @@ ACDD/CF/NUG conformant values in a nc file.
 $ python nc2rdf.py -o json-ld --schema-org [cdl or nc file]
 ``
 
-Example:
-``
-$ python nc2rdf.py -o json-ld --schema-org ../lib/bald/tests/integration/CDL/trajectoryProfile_template.cdl
-``
-`
-
 ## Files
 
 * write_nc.py python test code using the [netCDF4](https://pypi.org/project/netCDF4/) python package.
